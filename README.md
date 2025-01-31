@@ -1,3 +1,2 @@
 # NLP-Final-Prject
-This is a sentiment analysis of Legend of Zelda Ocarina of Time reviews.
-I am figuring out how to upload big files to github.
+his script analyzes user reviews for the game "The Legend of Zelda: Breath of the Wild" from Metacritic. It performs data cleaning, text preprocessing, and visualization to gain insights into the reviews. The script categorizes reviews into "Excellent" and "Bad" based on user scores, generates word clouds, and analyzes bigrams and trigrams in the reviews.
